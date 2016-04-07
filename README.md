@@ -6,7 +6,7 @@ standalone version of git's strbuf api
 ####API####
 Please refer to git's strbuf api:
 
-https://www.kernel.org/pub/software/scm/git/docs/technical/api-strbuf.html
+https://www.kernel.org/pub/software/scm/git/docs/v2.3.4/technical/api-strbuf.html
 
 ####Compiling####
 ```
